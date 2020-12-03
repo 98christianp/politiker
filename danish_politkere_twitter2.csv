@@ -11,7 +11,7 @@ Pia Olsen Dyhr,PiaOlsen,Socialistisk Folkeparti,hovedstadan
 Magnus Heunicke,Heunicke,Socialdemokratiet,sjælland
 Sofie CarstenNielsen,sofiecn,UNKNOWN,UNKNOWN
 Statsministeriet,Statsmin,Venstre,UNKNOWN
-Regeringen,regeringDK,UNKNOWN,UNKNOWN
+Regeringen,regeringDK,Government,Government
 Brian Holm,brianholm1962,UNKNOWN,UNKNOWN
 Simon Emil Ammitzbøll-Bille,ammitzbollbille,Uden for folketingsgrupperne,hovedstadan
 Jakob Ellemann-Jensen,JakobEllemann,Venstre,midtjylland
@@ -22,15 +22,15 @@ Rosenkrantz-Theil,RosenkrantzT,Socialdemokratiet,UNKNOWN
 Ellen Trane Nørby,EllenTraneNorby,Venstre,syddanmark
 Morten Messerschmidt,MrMesserschmidt,Dansk Folkeparti,hovedstadan
 Frank Jensen,FrankJensenKBH,Socialdemokratiet,UNKNOWN
-Tommy Ahlers,aahlers,Venstre,hovedstadan
 Sophie Løhde,sophieloehde,Venstre,hovedstadan
+Tommy Ahlers,aahlers,Venstre,hovedstadan
 Martin Lidegaard,martinlidegaard,Radikale Venstre,hovedstadan
 Karen Melchior😷🧼🇪🇺,karmel80,UNKNOWN,UNKNOWN
 Zenia Stampe,zeniastampe,Radikale Venstre,sjælland
 Astrid Krag,Astridkrag,Socialdemokratiet,sjælland
 Benny Engelbrecht,BennyEngelbrech,Socialdemokratiet,syddanmark
-Peter Hummelgaard,PHummelgaard,Socialdemokratiet,hovedstadan
 Rasmus Jarlov,RasmusJarlov,Det Konservative Folkeparti,hovedstadan
+Peter Hummelgaard,PHummelgaard,Socialdemokratiet,hovedstadan
 Jan E. Jørgensen,JanEJoergensen,Venstre,hovedstadan
 Karsten Lauritzen,StemLAURITZEN,Venstre,nordjylland
 Mogens Jensen,MogensJensenS,Socialdemokratiet,midtjylland
@@ -39,7 +39,7 @@ Morten Bødskov,mfMorten,Socialdemokratiet,hovedstadan
 Kristian Thulesen Dahl,Kristianthdahl,Dansk Folkeparti,syddanmark
 Rasmus Prehn,RasmusPrehn,Socialdemokratiet,nordjylland
 Alex Vanopslagh,AlexVanopslagh,Liberal Alliance,midtjylland
-Per Clausen,PerClausen3,Enhedslisten,UNKNOWN
+Per Clausen,PerClausen3,Enhedslisten,nordjylland
 Jacob Mark,jacobmark_sf,Socialistisk Folkeparti,sjælland
 Mai Mercado,_MaiMercado,Det Konservative Folkeparti,syddanmark
 Jesper Petersen,Jesper_Pet,Socialdemokratiet,syddanmark
@@ -49,11 +49,11 @@ Trine Bramsen,Trinebramsen,Socialdemokratiet,syddanmark
 Pernille Vermund,PernilleVermund,Nye Borgerlige,syddanmark
 Henrik Sass,SosseSass,Socialdemokratiet,UNKNOWN
 Margrete Auken,MargreteAuken,Socialistisk Folkeparti,UNKNOWN
-Mette Gjerskov,MetteGjerskov,Socialdemokratiet,sjælland
 Jens Rohde,rohde_jens,Radikale Venstre,hovedstadan
+Mette Gjerskov,MetteGjerskov,Socialdemokratiet,sjælland
 Lotte Rod,LotteRod,Radikale Venstre,syddanmark
 Morten Helveg,mortenhelveg,Radikale Venstre,UNKNOWN
-Uddannelses- og Forskningsministeriet,UFM_MIN,UNKNOWN,UNKNOWN
+Uddannelses- og Forskningsministeriet,UFM_MIN,Government,government
 Søren Espersen,espersendf,Dansk Folkeparti,sjælland
 Ole Birk Olesen,olebirkolesen,Liberal Alliance,midtjylland
 Pia Kjærsgaard,Pia_Kjaersgaard,Dansk Folkeparti,hovedstadan
@@ -64,21 +64,21 @@ Sophie H. Andersen,SophieHAndersen,UNKNOWN,UNKNOWN
 Jeppe Kofod,JeppeKofod,Socialdemokratiet,UNKNOWN
 Ane Halsboe,AneHalsboe,Socialdemokratiet,UNKNOWN
 Christel Schaldemose,SchaldemoseMEP,Socialdemokratiet,UNKNOWN
+Finansministeriet,Finansmin,Government,government
 Morten Løkkegaard,Loekkegaard_MEP,Venstre,UNKNOWN
-Finansministeriet,Finansmin,UNKNOWN,UNKNOWN
 Jakob Engel-Schmidt,engelschmidt,Venstre,UNKNOWN
 Simon Kollerup,simonkollerup,Socialdemokratiet,nordjylland
 Kristian Hegaard,KHegaard,Radikale Venstre,hovedstadan
 Karsten Hønge,khoenge,Socialistisk Folkeparti,syddanmark
 Jens Joel,Jens_Joel,Socialdemokratiet,midtjylland
-Erhvervsministeriet,Erhvervs_min,UNKNOWN,UNKNOWN
-Sundheds- og Ældreministeriet,DKsundhed,UNKNOWN,UNKNOWN
+Erhvervsministeriet,Erhvervs_min,Government,government
+Sundheds- og Ældreministeriet,DKsundhed,Government,government
 Torsten Schack,Torstenschack,Venstre,UNKNOWN
 Ulla Tørnæs,Ulla_Tornaes,Venstre,syddanmark
 Rasmus Horn Langhoff,rasmushorn,Socialdemokratiet,sjælland
 Michael Aastrup Jensen,michaelaastrup,Venstre,midtjylland
 Peter Kofod(DF),KofodPeter,UNKNOWN,UNKNOWN
-Miljø &amp; Fødevaremin.,MFVMin,UNKNOWN,UNKNOWN
+Miljøministeriet,miljoemin,Government,government
 Naser Khader,naserkhaderdk,Det Konservative Folkeparti,sjælland
 Henrik Dahl,SociologenHD,Liberal Alliance,syddanmark
 Liselott Blixt,Blixt22,Dansk Folkeparti,sjælland
@@ -86,26 +86,26 @@ Troels Lund Poulsen,troelslundp,Venstre,midtjylland
 Nicolai Wammen,NWammen,Socialdemokratiet,midtjylland
 Lars Chr. Lilleholt,larsclilleholt,UNKNOWN,UNKNOWN
 Andreas Steenberg,a_steenberg,Radikale Venstre,midtjylland
-Niko Grünfeld,nikogrunfeld,UNKNOWN,UNKNOWN
 Stinus Lindgreen,stinuslindgreen,Radikale Venstre,hovedstadan
+Niko Grünfeld,nikogrunfeld,Uden for folketingsgrupperne,hovedstadan
 Lea Wermelin,LeaWermelin,Socialdemokratiet,hovedstadan
 Kaare Dybvad,KaareDybvad,Socialdemokratiet,UNKNOWN
 Benedikte Kiær,benediktekiaer,Det Konservative Folkeparti,UNKNOWN
-Jacob Bundsgaard,JBundsgaard,UNKNOWN,UNKNOWN
-Kåre Traberg Smidt,kaaretraberg,UNKNOWN,UNKNOWN
+Jacob Bundsgaard,JBundsgaard,Socialdemokratiet,midtjylland
+Kåre Traberg Smidt,kaaretraberg,Uden for folketingsgrupperne,hovedstadan
 Karen Ellemann,EllemannKaren,Venstre,hovedstadan
 Laura Lindahl,lauralindahl,Liberal Alliance,UNKNOWN
-Marianne Jelved,mariannejelved,Radikale Venstre,nordjylland
 EU-Parlamentet i DK,EPiDanmark,UNKNOWN,UNKNOWN
-Kulturministeriet,Kulturmin,UNKNOWN,UNKNOWN
-Forsvarsministeriet/Danish MoD,Forsvarsmin,UNKNOWN,UNKNOWN
+Marianne Jelved,mariannejelved,Radikale Venstre,nordjylland
+Forsvarsministeriet/Danish MoD,Forsvarsmin,Government,government
+Kulturministeriet,Kulturmin,Government,government
 Bertel Haarder,BHaarder,Venstre,sjælland
 Mads Fuglede,madsfuglede,Venstre,UNKNOWN
-Klimaministeriet,KlimaMin,UNKNOWN,UNKNOWN
+Klimaministeriet,KlimaMin,Government,government
 Rasmus Helveg,rasmushelveg,Radikale Venstre,UNKNOWN
-Joymogensen,Joymogensen,UNKNOWN,UNKNOWN
 Samira Nawa,SamiraNawa,Radikale Venstre,hovedstadan
-Børne- og Undervisningsministeriet,UVM_dk,UNKNOWN,UNKNOWN
+Joymogensen,Joymogensen,UNKNOWN,UNKNOWN
+Børne- og Undervisningsministeriet,UVM_dk,Government,government
 Marie Krarup,MarieKrarup,Dansk Folkeparti,syddanmark
 Kira M. Peter-Hansen,Kira_MPH,UNKNOWN,UNKNOWN
 Hans Andersen,HansAndersenV,Venstre,hovedstadan
@@ -121,12 +121,12 @@ Pernille Weiss,WeissPernille,UNKNOWN,UNKNOWN
 Michael Ziegler,Mich_Ziegler,Det Konservative Folkeparti,UNKNOWN
 Signe Munk,signe_munk,Socialistisk Folkeparti,midtjylland
 Kenneth K. Berth,Kristensenberth,UNKNOWN,UNKNOWN
-Stephanie Lose,stephanie_lose,Venstre,UNKNOWN
 Carl Valentin,Carl__Valentin,Socialistisk Folkeparti,hovedstadan
+Stephanie Lose,stephanie_lose,Venstre,UNKNOWN
 Kirsten Normann,KirstenNormann,Socialistisk Folkeparti,UNKNOWN
 Trine Schøning Torp,TrineTorp,Socialistisk Folkeparti,UNKNOWN
-Eva Kjer Hansen,EvaKjerHansen,Venstre,syddanmark
 Jeppe Bruus,JeppeBruus,Socialdemokratiet,hovedstadan
+Eva Kjer Hansen,EvaKjerHansen,Venstre,syddanmark
 Karina Lorentzen D.,MF_K_Lorentzen,Socialistisk Folkeparti,UNKNOWN
 Thomas Danielsen,ThDanielsen,Venstre,midtjylland
 Camilla Schwalbe,CamillaSchwalbe,UNKNOWN,UNKNOWN
@@ -134,47 +134,47 @@ Louise Schack Elholm,LouiseElholm,Venstre,sjælland
 Kr. Pihl Lorentzen,kplorentzen,UNKNOWN,UNKNOWN
 Simon Pihl Sørensen,Simonpihl,UNKNOWN,UNKNOWN
 Sikandar Siddique,SikandaSIDDIQUE,Uden for folketingsgrupperne,hovedstadan
-Dennis Flydtkjær,flydtkjaer,Dansk Folkeparti,midtjylland
 Mai Villadsen,MaiVilladsen,Enhedslisten,hovedstadan
+Dennis Flydtkjær,flydtkjaer,Dansk Folkeparti,midtjylland
+Mette Thiesen,ThiesenMette,Nye Borgerlige,hovedstadan
 Britt Bager,brittbager,Venstre,midtjylland
 Christian Juhl,ChristianJuhl2,Enhedslisten,sjælland
 Kasper Sand Kjær,SandKjaer,Socialdemokratiet,hovedstadan
-Mette Thiesen,ThiesenMette,Nye Borgerlige,hovedstadan
-Skatteministeriet,skmdk,UNKNOWN,UNKNOWN
+Skatteministeriet,skmdk,Government,government
 Anni Matthiesen,AnniMatthiesen,Venstre,syddanmark
-Eva Flyvholm,EvaFlyvholm,Enhedslisten,sjælland
 Rune Lund,RuneLundEL,Enhedslisten,hovedstadan
+Eva Flyvholm,EvaFlyvholm,Enhedslisten,sjælland
 Casper Hedegaard,Cspr_Hedegaard,UNKNOWN,UNKNOWN
 Mona Juul,JuulMona,Det Konservative Folkeparti,midtjylland
-Karina Adsbøl,AdsbolAdsbl,Dansk Folkeparti,syddanmark
 Chr Rabjerg Madsen,RabjergMadsen,UNKNOWN,UNKNOWN
+Karina Adsbøl,AdsbolAdsbl,Dansk Folkeparti,syddanmark
 Hans Kristian Skibby,Hans_Kr_Skibby,Dansk Folkeparti,midtjylland
-Christopher Røhl A.,RohlChristopher,UNKNOWN,UNKNOWN
-Transport- og Boligministeriet,TRM_dk,UNKNOWN,UNKNOWN
-Lars Krarup,krarup_lars,UNKNOWN,UNKNOWN
 Rasmus Stoklund,RStoklund,Socialdemokratiet,hovedstadan
+Christopher Røhl A.,RohlChristopher,UNKNOWN,UNKNOWN
+Transport- og Boligministeriet,TRM_dk,Government,government
 Linea Søgaard-Lidell,LineaLidell,UNKNOWN,UNKNOWN
+Lars Krarup,krarup_lars,UNKNOWN,UNKNOWN
 John Dyrby Paulsen,JohnDyrbyPaulse,Socialdemokratiet,UNKNOWN
-Sisse Marie Welling,SisseMarieWe,Socialistisk Folkeparti,UNKNOWN
+Sisse Marie Welling,SisseMarieWe,Socialistisk Folkeparti,hovedstadan
 Jakob Sølvhøj,JakobSoelvhoej,Enhedslisten,midtjylland
 Søren Gade,SoerenGade,Venstre,UNKNOWN
 Leif Lahn Jensen,LahnLeif,Socialdemokratiet,midtjylland
 Flemming M Mortensen,FlemmingMM,UNKNOWN,UNKNOWN
-Victoria Velásquez,VictoriaRV,UNKNOWN,UNKNOWN
 Niels Fuglsang,NielsFuglsang,UNKNOWN,UNKNOWN
+Victoria Velásquez,VictoriaRV,UNKNOWN,UNKNOWN
+Lars Boje Mathiesen,LBMathiesen,Nye Borgerlige,midtjylland
 Ruben Kidde,rubenkidde,UNKNOWN,UNKNOWN
 Jacob Bjerregaard,JaBjerregaard,Socialdemokratiet,UNKNOWN
-Thomas Medom,thomasmedom,Socialistisk Folkeparti,UNKNOWN
+Thomas Medom,thomasmedom,Socialistisk Folkeparti,midtjylland
 Søren Søndergaard,SrenSndergaard3,Enhedslisten,hovedstadan
-Tommy Petersen,TommyPetersenDK,UNKNOWN,UNKNOWN
+Tommy Petersen,TommyPetersenDK,Radikale Venstre,hovedstadan
 Morten Marinus,MortenMarinus,Dansk Folkeparti,UNKNOWN
-Anne Marie Geisler,amgeisler,Radikale Venstre,UNKNOWN
 Marianne Vind,MarianneVind,UNKNOWN,UNKNOWN
-Lars Boje Mathiesen,LBMathiesen,Nye Borgerlige,midtjylland
 Julie Skovsby,JulieSkovsby,Socialdemokratiet,syddanmark
+Anne Marie Geisler,amgeisler,Radikale Venstre,UNKNOWN
 Daniel Panduro,Danielpanduro,UNKNOWN,UNKNOWN
 Gunvor Wibroe,GunvorWibroe,UNKNOWN,UNKNOWN
-Jesper Christensen,jesper_bedreby,UNKNOWN,UNKNOWN
+Jesper Christensen,jesper_bedreby,Socialdemokratiet,hovedstadan
 Daniel Nyboe Andersen,danielnyboe,UNKNOWN,UNKNOWN
 Marlene Harpsøe 🇩🇰,MarleneHARPSOEE,UNKNOWN,UNKNOWN
 MetteAnnelie,mette_annelie,UNKNOWN,UNKNOWN
@@ -182,16 +182,16 @@ Karin Friis Bach,karinFbach,UNKNOWN,UNKNOWN
 Camilla Fabricius,CamFabricius,Socialdemokratiet,midtjylland
 Lise Bech 🇩🇰 DF,LiseBech,UNKNOWN,UNKNOWN
 Katrine Robsøe,KatrineRobsoe,Radikale Venstre,midtjylland
-Ninna Hedeager Olsen,ninnahedeager,UNKNOWN,UNKNOWN
-Nikolaj Bøgh,nikolajbogh,UNKNOWN,UNKNOWN
 Peder Hvelplund,pederhvelplund,Enhedslisten,nordjylland
-Social- og Indenrigsministeriet,Socialindenrigs,UNKNOWN,UNKNOWN
-Steen Christiansen,steen2620,UNKNOWN,UNKNOWN
+Ninna Hedeager Olsen,ninnahedeager,Enhedslisten,hovedstadan
+Nikolaj Bøgh,nikolajbogh,UNKNOWN,UNKNOWN
+Social- og Indenrigsministeriet,Socialindenrigs,Government,government
 Lars Gaardhøj,larsgaardhoj,Socialdemokratiet,UNKNOWN
+Steen Christiansen,steen2620,UNKNOWN,UNKNOWN
 Anne Ehrenreich,anneehrenreich,Venstre,UNKNOWN
 MiaNyegaard,MiaNyegaard,UNKNOWN,UNKNOWN
-Annette Lind,annette_lind,Socialdemokratiet,midtjylland
 Marie Stærke,mariestaerke,UNKNOWN,UNKNOWN
+Annette Lind,annette_lind,Socialdemokratiet,midtjylland
 Bjørn Brandenborg,BjBrandenborg,Socialdemokratiet,syddanmark
 Serdal Benli,SerdalBenli,Socialistisk Folkeparti,UNKNOWN
 Thomas Gyldal,ThomasGyldal,UNKNOWN,UNKNOWN
@@ -199,80 +199,80 @@ Anne Paulin,Paulin_Anne,Socialdemokratiet,midtjylland
 Ulrik Kohl,UlrikKohl,UNKNOWN,UNKNOWN
 Peter Westermann,WestermannPeter,Socialistisk Folkeparti,UNKNOWN
 Brigitte K. Jerkel,JerkelK,UNKNOWN,UNKNOWN
-Jens-Kristian Lütken,lytken,UNKNOWN,UNKNOWN
+Jens-Kristian Lütken,lytken,Venstre,hovedstadan
 Lars Aslan,lars_aslan,Socialdemokratiet,UNKNOWN
 Jørn Pedersen,mayorkolding,UNKNOWN,UNKNOWN
 Michael Vindfeldt,MVindfeldt,UNKNOWN,UNKNOWN
 Winni Grosbøll,wgrosboell,UNKNOWN,UNKNOWN
-Caroline Stage,CarolineStage,UNKNOWN,UNKNOWN
 Astrid Carøe,AstridCaroee,Socialistisk Folkeparti,sjælland
+Caroline Stage,CarolineStage,UNKNOWN,UNKNOWN
 Heino Knudsen (S),HeinoKnudsen,UNKNOWN,UNKNOWN
-Anders Kühnau,AndersKuhnau,Socialdemokratiet,midtjylland
 Anne Valentina Berthelsen,AnneValentina,Socialistisk Folkeparti,sjælland
-Anne Sophie Callesen,FrkCallesen,Radikale Venstre,midtjylland
+Anders Kühnau,AndersKuhnau,Socialdemokratiet,midtjylland
 KatarinaAmmitzboell,Ammitzboell_K,UNKNOWN,UNKNOWN
+Anne Sophie Callesen,FrkCallesen,Radikale Venstre,midtjylland
 Susanne Zimmer,Susanne_Zimmer_,Uden for folketingsgrupperne,nordjylland
 Martin Geertsen,GeertsenVenstre,Venstre,hovedstadan
 ThomasKastrup-Larsen,KastrupLarsen,UNKNOWN,UNKNOWN
 Rikke Lauritzen,rikkelau,UNKNOWN,UNKNOWN
 J H Thulesen Dahl,JThulesen,UNKNOWN,UNKNOWN
 Claus Jørgensen,clausjorgensen,UNKNOWN,UNKNOWN
-Ulla Astman,UAstman,Socialdemokratiet,nordjylland
-Pernille Bendixen,BendixenPebe,Dansk Folkeparti,UNKNOWN
+Ulla Astman,UAstman,UNKNOWN,UNKNOWN
+Pernille Bendixen,BendixenPebe,Dansk Folkeparti,syddanmark
 Orla Hav,HavOrla,Socialdemokratiet,nordjylland
 Daniel Rugholm,rugholm,Det Konservative Folkeparti,UNKNOWN
 Erling Bonnesen,ErlingBonnesen,Venstre,syddanmark
 Marie Bjerre,marie_bjerre,Venstre,nordjylland
-Jonas Bjørn Jensen,Jonasbjorn,UNKNOWN,UNKNOWN
 Birgitte Bergman,BirgitteBergman,Det Konservative Folkeparti,hovedstadan
 "Stén Knuth, Idrætsordfører Venstre",Sten_Knuth,UNKNOWN,UNKNOWN
-Tidligere Økonomi- og Indenrigsministeriet,OIMdk,UNKNOWN,UNKNOWN
+Jonas Bjørn Jensen,Jonasbjorn,Socialdemokratiet,hovedstadan
+Tidligere Økonomi- og Indenrigsministeriet,OIMdk,Government,government
 Peter Juel Jensen,PeterJuelJensen,Venstre,UNKNOWN
 Anders Kronborg,AndersKronborg,Socialdemokratiet,syddanmark
 Troels Ravn,RavnTroels,Socialdemokratiet,syddanmark
 Nick Hækkerup,Nickerup,Socialdemokratiet,hovedstadan
 Martin Damm,martinldamm,UNKNOWN,UNKNOWN
 Torben Hansen,TorbenHansenRds,Socialdemokratiet,UNKNOWN
-Asger Christensen,AsgerChristens2,Venstre,UNKNOWN
+Asger Christensen,AsgeriEU,Venstre,UNKNOWN
 Susanne Eilersen,Eilersen_DF,Dansk Folkeparti,UNKNOWN
 Anja C Jensen,AnjaCJensen,UNKNOWN,UNKNOWN
 Kathrine Olldag,KathrineOlldag,Radikale Venstre,sjælland
-Erik Høgh-Sørensen,HoghSorensen,Dansk Folkeparti,nordjylland
-Franciska Rosenkilde,FranciskaRosenk,UNKNOWN,UNKNOWN
+Erik Høgh-Sørensen,HoghSorensen,UNKNOWN,UNKNOWN
+Franciska Rosenkilde,FranciskaRosenk,Alternativet,hovedstadan
 Mette H. Dencker,dfmehd_mette,UNKNOWN,UNKNOWN
-Villum Christensen,VillumC,Liberal Alliance,UNKNOWN
 Aaja Chemnitz Larsen,AajaCL,Inuit Ataqatigiit,UNKNOWN
+Villum Christensen,VillumC,Liberal Alliance,UNKNOWN
 Sonja Marie Jensen,SonjaMJensen,UNKNOWN,UNKNOWN
 Bo Nygaard Larsen,bonygaardlarsen,UNKNOWN,UNKNOWN
 Maria Gudme,mariagudme,Socialdemokratiet,UNKNOWN
 Steen Holm Iversen,steenHiversen,Liberal Alliance,UNKNOWN
-Bünyamin Simsek,BSimsekV,UNKNOWN,UNKNOWN
+Bünyamin Simsek,BSimsekV,Venstre,midtjylland
 Per Larsen,PerLarsenC,Det Konservative Folkeparti,nordjylland
+Peter Seier Christensen,peter_seier,Nye Borgerlige,sjælland
 Birgit S. Hansen,BirgitsHansen,UNKNOWN,UNKNOWN
 Jacob Isøe Klærke,jacobklaerke,Socialistisk Folkeparti,midtjylland
-Peter Seier Christensen,peter_seier,Nye Borgerlige,sjælland
 Charlotte Riis Engelbrecht,CharlotteCre,UNKNOWN,UNKNOWN
 Emil Blücher,emilblucher,UNKNOWN,UNKNOWN
 Balder Mørk Andersen,sfBalder,UNKNOWN,UNKNOWN
 Birgitte Vind,birgitte_vind,Socialdemokratiet,syddanmark
-Per Olesen,polesenpolesen,UNKNOWN,UNKNOWN
 Tonni Hansen,Tonni_SF,Socialistisk Folkeparti,UNKNOWN
+Per Olesen,polesenpolesen,UNKNOWN,UNKNOWN
+Astrid Aller,AstridAller,Socialistisk Folkeparti,hovedstadan
 Pernille Beckmann,PernilleBeckman,UNKNOWN,UNKNOWN
+Christoffer Lilleholt,LilleholtC,Venstre,syddanmark
 Anders Johansson,AJohanssonC,Det Konservative Folkeparti,UNKNOWN
 Jakob Gorm,jakobgorm,UNKNOWN,UNKNOWN
-Astrid Aller,AstridAller,UNKNOWN,UNKNOWN
-Christoffer Lilleholt,LilleholtC,UNKNOWN,UNKNOWN
 Christoffer Melson,ChristofferMels,UNKNOWN,UNKNOWN
-Fanny Broholm,FannyBroholm,UNKNOWN,UNKNOWN
+Fanny Broholm,FannyBroholm,Alternativet,hovedstadan
 Merete Scheelsbeck,Scheelsbeck,Det Konservative Folkeparti,UNKNOWN
 Niels Peter Bøgballe,NPBogballe,UNKNOWN,UNKNOWN
 Daniel Prehn,DanielPrehn1,UNKNOWN,UNKNOWN
+Hanne Roed,HanneRoed,Radikale Venstre,midtjylland
 Allan Ahmad,AllanAhmadDK,UNKNOWN,UNKNOWN
 SusanneUrsulaCrawley,susanneursula,UNKNOWN,UNKNOWN
-Hanne Roed,HanneRoed,Radikale Venstre,midtjylland
 Halime Oguz,Halime9Oguz,Socialistisk Folkeparti,hovedstadan
-Lasse Frimand Jensen,LasseFJaalborg,UNKNOWN,UNKNOWN
 Marc Perera Christensen,MarcPerera,UNKNOWN,UNKNOWN
+Lasse Frimand Jensen,LasseFJaalborg,Socialdemokratiet,nordjylland
 Lasse Hansen,Ls_Hansen,UNKNOWN,UNKNOWN
 Kirsten Rask,KirstenRask,Socialdemokratiet,sjælland
 Jens Mandrup,jensmandrup,Socialistisk Folkeparti,UNKNOWN
@@ -282,112 +282,112 @@ Orla Østerby,orlaosterby,Det Konservative Folkeparti,midtjylland
 Hans Christian Schmidt,HaChrSchmidt,Venstre,syddanmark
 Heidi Bank,bankHeidi,Venstre,midtjylland
 Camilla Pedersen,camillalouped,UNKNOWN,UNKNOWN
-Lisbeth Lauritsen,L_Lauritsen,UNKNOWN,UNKNOWN
-Daniel Toft Jakobsen,ToftJakobsen,Socialdemokratiet,midtjylland
-Niels E. Bjerrum,NielsBjerrum,UNKNOWN,UNKNOWN
 Marlene Ambo-Rasmussen,MarleneAmbo,Venstre,syddanmark
+Lisbeth Lauritsen,L_Lauritsen,Socialdemokratiet,nordjylland
+Daniel Toft Jakobsen,ToftJakobsen,Socialdemokratiet,midtjylland
+Niels E. Bjerrum,NielsBjerrum,Socialdemokratiet,hovedstadan
 Henrik Hvidesten,HenrikHvidesten,UNKNOWN,UNKNOWN
-Lene Horsbøl,LeneHorsboel,UNKNOWN,UNKNOWN
+Lene Horsbøl,LeneHorsboel,Venstre,midtjylland
 Steen Wrist Ørts,steenwrist,UNKNOWN,UNKNOWN
 Carl Andersen,CarlAndersenLA,UNKNOWN,UNKNOWN
-Charlotte Lund,CharlotteLundDi,UNKNOWN,UNKNOWN
+Charlotte Lund,CharlotteLundDi,Enhedslisten,hovedstadan
 Mogens Gade,MogensGade,UNKNOWN,UNKNOWN
-Kristian Guldfeldt,Guldfeldt,UNKNOWN,UNKNOWN
 Jonathan SH. Nielsen,JonathanNielsen,UNKNOWN,UNKNOWN
-Jakob Lose,Jakob_Lose,UNKNOWN,UNKNOWN
+Kristian Guldfeldt,Guldfeldt,Det Konservative Folkeparti,syddanmark
 Jesper F. Rasmussen,Jesperfr,UNKNOWN,UNKNOWN
 LoneYalcinkaya,LoneYalcinkaya,UNKNOWN,UNKNOWN
+Jakob Lose,Jakob_Lose,UNKNOWN,UNKNOWN
+Brian Dybro,BrianDybro,Socialistisk Folkeparti,syddanmark
 Morten Jung,mortenjung,UNKNOWN,UNKNOWN
-Brian Dybro,BrianDybro,UNKNOWN,UNKNOWN
 Leon Sebbelin,LeonSebbelin,UNKNOWN,UNKNOWN
 Sine Heltberg,sineheltberg,UNKNOWN,UNKNOWN
-Simon Simonsen,simonsjsimonsen,UNKNOWN,UNKNOWN
 Karoline Vind,KarolineVind,Socialistisk Folkeparti,UNKNOWN
-Malte Larsen,MalteLarsen,Socialdemokratiet,midtjylland
+Simon Simonsen,simonsjsimonsen,Socialdemokratiet,hovedstadan
 Niels Flemming Hansen,NielsFlemming01,Det Konservative Folkeparti,syddanmark
-Marcus Vesterager,marvesterager,UNKNOWN,UNKNOWN
+Malte Larsen,MalteLarsen,Socialdemokratiet,midtjylland
+Marcus Vesterager,marvesterager,Socialdemokratiet,hovedstadan
 Merete Due Paarup,MereteDuePaarup,UNKNOWN,UNKNOWN
+Kim Valentin,kimvalentinDK,Venstre,hovedstadan
 Jesper Kiel,jesperkiel,Enhedslisten,UNKNOWN
 Maria Sloth,MariaSloth,UNKNOWN,UNKNOWN
-Kim Valentin,kimvalentinDK,Venstre,hovedstadan
 Carsten Kissmeyer,CKissmeyer,Venstre,midtjylland
-Sofie Seidenfaden,SeidenfadenSof,UNKNOWN,UNKNOWN
+Sofie Seidenfaden,SeidenfadenSof,Socialdemokratiet,hovedstadan
 Lasse P. N. Olsen,LassePNO,UNKNOWN,UNKNOWN
-Rasmus Foged,FogedRasmus,Alternativet,midtjylland
 Anne Honoré Østergaard,AnneStergaa,Venstre,nordjylland
-Annika Smith,annika_smith,Socialistisk Folkeparti,UNKNOWN
-Annette Roed,RoedAnnette,Socialdemokratiet,midtjylland
+Rasmus Foged,FogedRasmus,Alternativet,midtjylland
+Annika Smith,annika_smith,Socialistisk Folkeparti,hovedstadan
 Kristian Nørgaard,Knorgaardenn,Venstre,UNKNOWN
 Andreas Boesen,AndreasBoesen,UNKNOWN,UNKNOWN
+Annette Roed,RoedAnnette,Socialdemokratiet,midtjylland
 Özkan Kocak,O76kocak,Socialdemokratiet,UNKNOWN
-Kasper Fuhr,KasperFuhr,UNKNOWN,UNKNOWN
 Niels Hörup (V),nielshorup,UNKNOWN,UNKNOWN
+Kasper Fuhr,KasperFuhr,UNKNOWN,UNKNOWN
 Christian Donatzky,donatzky,UNKNOWN,UNKNOWN
+Rose Sloth Hansen,RoseSHansen,Socialdemokratiet,nordjylland
 Latifa Ljørring,Latifa_Venstre,UNKNOWN,UNKNOWN
 Anders Broholm,andersbroholm,Venstre,UNKNOWN
 Rune Højer,RuneHojer,UNKNOWN,UNKNOWN
-Rose Sloth Hansen,RoseSHansen,UNKNOWN,UNKNOWN
 Bjarne Laustsen,Bjarne_Laustsen,Socialdemokratiet,nordjylland
 Kurt Damsted,KurtDamsted,UNKNOWN,UNKNOWN
-Johan Brødsgaard,JBroedsgaard,UNKNOWN,UNKNOWN
 Tim Vermund,TimVermund,UNKNOWN,UNKNOWN
+Johan Brødsgaard,JBroedsgaard,UNKNOWN,UNKNOWN
 Glen Madsen,GlenMadsen,UNKNOWN,UNKNOWN
 Michael Vajhøj,roadhigh,UNKNOWN,UNKNOWN
 Helle Adelborg,AdelborgHelle,UNKNOWN,UNKNOWN
-Rasmus Norup,RasmusNorupC,UNKNOWN,UNKNOWN
-Jeppe Trolle,JeppeTrolle,UNKNOWN,UNKNOWN
 Helle Bonnesen (C),Helle_Bonnesen,UNKNOWN,UNKNOWN
+Jeppe Trolle,JeppeTrolle,UNKNOWN,UNKNOWN
 Chr. Wedell-Neegaard,StemChristian,UNKNOWN,UNKNOWN
+Rasmus Norup,RasmusNorupC,UNKNOWN,UNKNOWN
 Qasam Nazir Ahmad,qasamnahmad,UNKNOWN,UNKNOWN
 Steen Hasselriis,steenhasselriis,UNKNOWN,UNKNOWN
 Fasael Rehman,FasaelRehman,UNKNOWN,UNKNOWN
-Klaus Mygind,Klausmygind,UNKNOWN,UNKNOWN
+Klaus Mygind,Klausmygind,Socialistisk Folkeparti,hovedstadan
 Stephan Kleinschmidt,KleinschmidtDK,UNKNOWN,UNKNOWN
-Heidi Wang,heidiwangdk,UNKNOWN,UNKNOWN
+Heidi Wang,heidiwangdk,Venstre,hovedstadan
 Christian Brøns,BroensChristian,UNKNOWN,UNKNOWN
 Thomas Krarup,ThomasKrarup,UNKNOWN,UNKNOWN
 John Engelhardt,john_Engelhardt,UNKNOWN,UNKNOWN
-Claus Houden,ClausHouden,UNKNOWN,UNKNOWN
+Claus Houden,ClausHouden,Venstre,syddanmark
 Elisabeth Ildal,elisabeth_ildal,UNKNOWN,UNKNOWN
 Torben Lollike,torbenlollike,UNKNOWN,UNKNOWN
-Gert Bjerregaard,GertBjerregaard,UNKNOWN,UNKNOWN
+Gert Bjerregaard,GertBjerregaard,Venstre,midtjylland
 Kisser Franciska,KisserFLehnert,Uden for folketingsgrupperne,UNKNOWN
-Mark Grossmann,MarkGrossmannV,UNKNOWN,UNKNOWN
+Mark Grossmann,MarkGrossmannV,Venstre,syddanmark
 Peter Sørensen,PeterSHorsens,UNKNOWN,UNKNOWN
 Hans Toft,htgentofte,Det Konservative Folkeparti,UNKNOWN
 Jan Johansen,janjohansen16,Socialdemokratiet,syddanmark
-Jeanne Toxværd,FruToxic,UNKNOWN,UNKNOWN
 Camilla Hove Lund,hovelund,Venstre,sjælland
+Karina Vestergård,karinaehl,UNKNOWN,UNKNOWN
+Jeanne Toxværd,FruToxic,UNKNOWN,UNKNOWN
 Søren Steen Andersen,sor1steenupdate,UNKNOWN,UNKNOWN
 Mogens Vad,MogensVad,UNKNOWN,UNKNOWN
-Karina Vestergård,karinaehl,UNKNOWN,UNKNOWN
 Steen B. Andersen,SteenBAndersen,UNKNOWN,UNKNOWN
 Klaus Markussen,klausmarkussen,Venstre,UNKNOWN
 Julie Gottschalk,JulieG0ttschalk,UNKNOWN,UNKNOWN
 Timo Jensen,Timo67,UNKNOWN,UNKNOWN
+Bodil Kornbek,BodilKornbek,Socialdemokratiet,UNKNOWN
 Søren Rasmussen,SorenRasmussenO,Dansk Folkeparti,UNKNOWN
 Poul V. Jensen,poulvjensen,UNKNOWN,UNKNOWN
-Bodil Kornbek,BodilKornbek,Socialdemokratiet,UNKNOWN
-Kasandra Behrndt,kasandrabehrndt,UNKNOWN,UNKNOWN
 Jens Ive,JiJens,UNKNOWN,UNKNOWN
+Kasandra Behrndt,kasandrabehrndt,UNKNOWN,UNKNOWN
 Susan Kjeldgaard,SusanKjeldgaar,UNKNOWN,UNKNOWN
 ango winther,AngoWinther,UNKNOWN,UNKNOWN
-Jeppe Lindberg,jeppelindberg,UNKNOWN,UNKNOWN
+Martin Bech,MartinNbech,UNKNOWN,UNKNOWN
 Michael Krogh,micskro,UNKNOWN,UNKNOWN
-Martin Bech,MartinNbech,Venstre,nordjylland
+Jeppe Lindberg,jeppelindberg,UNKNOWN,UNKNOWN
+Laura Rosenvinge,LauraRosenvinge,Socialdemokratiet,hovedstadan
 Marco Oehlenschläger,OehlenschlagerM,UNKNOWN,UNKNOWN
 KARIN SØJBERG HOLST,holst_karin,UNKNOWN,UNKNOWN
-Laura Rosenvinge,LauraRosenvinge,UNKNOWN,UNKNOWN
 Christine Dal,DalChristine,UNKNOWN,UNKNOWN
 Torben Elsig,TorbenElsig,UNKNOWN,UNKNOWN
 Per Zeidler,PerZeidler,UNKNOWN,UNKNOWN
 Mette Engelbrecht,Mettengelbrecht,UNKNOWN,UNKNOWN
 Hjalte Daniel Hansen,hjaltedaniel,UNKNOWN,UNKNOWN
-Anders Winnerskjold,Winnerskjold,UNKNOWN,UNKNOWN
+Anders Winnerskjold,Winnerskjold,Socialdemokratiet,midtjylland
 Hans Jørgen Hansen,HansJHans,UNKNOWN,UNKNOWN
-Jan Ravn Christensen,JanRavnC,UNKNOWN,UNKNOWN
-Simon Strange,stemstrange,UNKNOWN,UNKNOWN
-Trine Madsen,trinmads,UNKNOWN,UNKNOWN
+Jan Ravn Christensen,JanRavnC,Socialistisk Folkeparti,midtjylland
+Simon Strange,stemstrange,Socialdemokratiet,hovedstadan
+Trine Madsen,trinmads,Socialdemokratiet,hovedstadan
 Trine Græse,TrineGraese,UNKNOWN,UNKNOWN
 Mads Andersen,MadsAndersenC,UNKNOWN,UNKNOWN
 Sjurdur Skaale,SSkaale,UNKNOWN,UNKNOWN
@@ -399,87 +399,87 @@ Anne Jeremiassen,Flipitorflop,UNKNOWN,UNKNOWN
 Rikke Mortensen,RikkeMortensen4,UNKNOWN,UNKNOWN
 Jesper Bitsch Bierbaum,bitschbierbaum,UNKNOWN,UNKNOWN
 Mette Bossen Linnet,Mette_Linnet,Venstre,UNKNOWN
+Tanja Larsson,LarssonTanja,Socialdemokratiet,sjælland
 Bo Vesth,bo_vesth,UNKNOWN,UNKNOWN
 Miki Dam Larsen,mikidamlarsen,UNKNOWN,UNKNOWN
 Jesper Clausson (S),StemClausson,UNKNOWN,UNKNOWN
-Mads Duedahl,mads_duedahl,UNKNOWN,UNKNOWN
-Tanja Larsson,LarssonTanja,Socialdemokratiet,sjælland
-Kristoffer H Storm,HjortStorm,UNKNOWN,UNKNOWN
+Mads Duedahl,mads_duedahl,Venstre,nordjylland
 Susan Kronborg,kronborgsusan,UNKNOWN,UNKNOWN
+Kristoffer H Storm,HjortStorm,UNKNOWN,UNKNOWN
 Daniel Borup,DanielBorup,UNKNOWN,UNKNOWN
 Githa Nelander,GithaNelander,Dansk Folkeparti,UNKNOWN
 Thomas Andresen,tand22927504,UNKNOWN,UNKNOWN
-Ole Vive,OleVive,UNKNOWN,UNKNOWN
 Søren Hillers,hillers_s,UNKNOWN,UNKNOWN
+Ole Vive,OleVive,UNKNOWN,UNKNOWN
 søren brink,brinkjammerbugt,UNKNOWN,UNKNOWN
 Ole Bondo Christense,olebondo,UNKNOWN,UNKNOWN
-Bodil Sø,BodilSoe,Venstre,sjælland
 line ervolder,lineervolder,UNKNOWN,UNKNOWN
+Bodil Sø,BodilSoe,Venstre,sjælland
+Maja Torp,MajaTorpAalborg,Venstre,nordjylland
+Tina French Nielsen,TinaFrench71,Venstre,nordjylland
 Jan Wammen,janwammen,UNKNOWN,UNKNOWN
-Tina French Nielsen,TinaFrench71,UNKNOWN,UNKNOWN
 Benny Dall,BennyDall,UNKNOWN,UNKNOWN
-Maja Torp,MajaTorpAalborg,UNKNOWN,UNKNOWN
 Claus Kjeldsen,ClausKjeldsen,Socialdemokratiet,midtjylland
 Tidligere konto MBLIS,M_BLIS,UNKNOWN,UNKNOWN
 Torben Overgaard,OvergaardTorben,UNKNOWN,UNKNOWN
-Steen Vindum,vindum,UNKNOWN,UNKNOWN
-Mikael Smed,Mikaelsmed,UNKNOWN,UNKNOWN
 Kasper Glyngø,KasGly,UNKNOWN,UNKNOWN
+Mikael Smed,Mikaelsmed,UNKNOWN,UNKNOWN
+Steen Vindum,vindum,UNKNOWN,UNKNOWN
 Maja Krog,KrogMaja,UNKNOWN,UNKNOWN
-Søren Kusk,s_kusk,UNKNOWN,UNKNOWN
+Søren Kusk,s_kusk,Socialdemokratiet,nordjylland
 Tage Nielsen,8464tage,UNKNOWN,UNKNOWN
+Kåre Harder Olesen,HarderOlesen,UNKNOWN,UNKNOWN
 Gitte Simoni,Gittesimoni,Dansk Folkeparti,sjælland
 Henrik Moeller,HenrikMoeller2,UNKNOWN,UNKNOWN
-Kåre Harder Olesen,HarderOlesen,UNKNOWN,UNKNOWN
-Claus Omann Jensen,CjOmann,UNKNOWN,UNKNOWN
-H.C. Østerby,Oesterby,UNKNOWN,UNKNOWN
 Morten Slotved,SlotvedMorten,UNKNOWN,UNKNOWN
+Claus Omann Jensen,CjOmann,UNKNOWN,UNKNOWN
 Gorm Gunnarsen,GormGun,UNKNOWN,UNKNOWN
+H.C. Østerby,Oesterby,UNKNOWN,UNKNOWN
 Rasmus Brask,rasmusbrask,UNKNOWN,UNKNOWN
 Diana Mose Olsen,DianaMoseOlsen,UNKNOWN,UNKNOWN
 Ida Damborg,DamborgIda,Socialistisk Folkeparti,UNKNOWN
 Marianne Mathiesen,MarianneM_LA,UNKNOWN,UNKNOWN
-Steffen Mølgaard,Steffen_Moel,UNKNOWN,UNKNOWN
 Søren Schow,soerenschow,UNKNOWN,UNKNOWN
+Steffen Mølgaard,Steffen_Moel,UNKNOWN,UNKNOWN
 Kristian Dyhr,krdyhr,UNKNOWN,UNKNOWN
 Peter Mikkelsen,PeterMikkelsen4,UNKNOWN,UNKNOWN
 Robert Sørensen,RobertGlostrup,UNKNOWN,UNKNOWN
 Morten Andersen,MortenA41863685,UNKNOWN,UNKNOWN
 Hans Holmer,HolmerHans,UNKNOWN,UNKNOWN
+Anna Hede,AnnaMHC,Dansk Folkeparti,hovedstadan
 William Sonne Kaalø,SonneKaaloe,UNKNOWN,UNKNOWN
-Anna Hede,AnnaMHC,UNKNOWN,UNKNOWN
 Preben Friis-Hauge,FriisHauge,Venstre,UNKNOWN
 Anne-Mette Ebensgaard🌹ame@odense.dk Tel: 21327352,AnneEbensgaard,UNKNOWN,UNKNOWN
-Lone Hindø,LoneHind,UNKNOWN,UNKNOWN
-Tommy Hummelmose,TommyHummelmose,UNKNOWN,UNKNOWN
+Tommy Hummelmose,TommyHummelmose,Det Konservative Folkeparti,syddanmark
+Lone Hindø,LoneHind,Socialdemokratiet,midtjylland
 Lars Hoppe Søe,hoppesoe,Radikale Venstre,sjælland
-Sascha Qvortrup,perleberger,UNKNOWN,UNKNOWN
 Karen Sandrini,KarenSandrini,UNKNOWN,UNKNOWN
-Otto Kjær Larsen,otklar,Venstre,nordjylland
+Sascha Qvortrup,perleberger,UNKNOWN,UNKNOWN
+Otto Kjær Larsen,otklar,UNKNOWN,UNKNOWN
 Søren Greve,SGHobro,UNKNOWN,UNKNOWN
+peter duetoft,peterduetoft,Socialdemokratiet,UNKNOWN
 Thomas Palmskov,TPalmskov,UNKNOWN,UNKNOWN
 Kirstine van Sabben,KirstinevanSabb,UNKNOWN,UNKNOWN
 Eik Dahl Bidstrup,EikBidstrup,UNKNOWN,UNKNOWN
-peter duetoft,peterduetoft,Socialdemokratiet,UNKNOWN
 Dan Arnløv,DanArnloev,UNKNOWN,UNKNOWN
-Rabih Azad-Ahmad,AzadRabih,UNKNOWN,UNKNOWN
 Mads Panny,MadsPanny,UNKNOWN,UNKNOWN
+Rabih Azad-Ahmad,AzadRabih,Radikale Venstre,midtjylland
 Sune Raunkjær,SRaunkjr,UNKNOWN,UNKNOWN
-Jakob Rixen,J_Rixen,Liberal Alliance,midtjylland
 Arne Lægaard,ArneLaegaard,Venstre,midtjylland
 Karsten Uno Petersen,KarstenUno,Socialdemokratiet,UNKNOWN
+Jakob Rixen,J_Rixen,Liberal Alliance,midtjylland
+Ole Revsgaard Andersen,OleRevsgaard,Dansk Folkeparti,midtjylland
 Flemming Rømer,flemse68,UNKNOWN,UNKNOWN
 Mortensiig,mortensiig,UNKNOWN,UNKNOWN
-Ole Revsgaard Andersen,OleRevsgaard,Dansk Folkeparti,midtjylland
 PeterSkriverNielsen,Enthybo,UNKNOWN,UNKNOWN
+Lars Mogensen,LarsMog,Enhedslisten,UNKNOWN
 Dan Skjerning,SkjerningDan,UNKNOWN,UNKNOWN
+Knud Holt Nielsen,Knuden1969,Enhedslisten,hovedstadan
 Kristian Skov-Andersen,KristianSkov21,UNKNOWN,UNKNOWN
 Ursula Dieterich,UDieterich,UNKNOWN,UNKNOWN
-Lars Mogensen,LarsMog,Enhedslisten,UNKNOWN
 Jørgen Gaarde,JGaarde,UNKNOWN,UNKNOWN
 Kirsten Devantier,KirstenDvantier,Venstre,sjælland
-Knud Holt Nielsen,Knuden1969,UNKNOWN,UNKNOWN
-Peder Udengaard,PederUdengaard,UNKNOWN,UNKNOWN
+Peder Udengaard,PederUdengaard,Socialdemokratiet,midtjylland
 John Brædder,Jobr0390,UNKNOWN,UNKNOWN
 Olav Rabølle Nielsen,orn48245399,UNKNOWN,UNKNOWN
 Nils Borring,NilsBorring,UNKNOWN,UNKNOWN
@@ -490,35 +490,35 @@ Mathias Frosz,MathiasDFN,UNKNOWN,UNKNOWN
 Claus Bakke,ClausBakke,Venstre,sjælland
 Cecilie Roed Schultz,CroedS_EL,UNKNOWN,UNKNOWN
 HolgerSchouRasmussen,HolgerSchouA,UNKNOWN,UNKNOWN
-Søren Windell,sorenwindell,UNKNOWN,UNKNOWN
+Søren Windell,sorenwindell,Det Konservative Folkeparti,syddanmark
 Aki Høegh-Dam,aki_hdam,UNKNOWN,UNKNOWN
 Morten Skovlund,MortenSkovlund,UNKNOWN,UNKNOWN
 Per Bødker Andersen,PerBoedker,UNKNOWN,UNKNOWN
 Michele Fejø,FejoeMichele,UNKNOWN,UNKNOWN
+Nicolaj Bang,NicolajBang,Det Konservative Folkeparti,midtjylland
 Anette Mortensen,anetmort,UNKNOWN,UNKNOWN
 Kenneth Bjerregaard,kbmusik88,UNKNOWN,UNKNOWN
-Nicolaj Bang,NicolajBang,Det Konservative Folkeparti,midtjylland
 H. Kristian Wollesen,Wollese,UNKNOWN,UNKNOWN
-Lene Krabbe Dahl,LeneKrabbeDahl,UNKNOWN,UNKNOWN
+Lene Krabbe Dahl,LeneKrabbeDahl,Socialdemokratiet,nordjylland
+Gyda Heding,GydaHeding,Enhedslisten,hovedstadan
 Erik Swiatek,ErikSwiatek,UNKNOWN,UNKNOWN
-Lis Mancini,lismancini,Socialdemokratiet,nordjylland
 Mai-Britt Beith,BeithMai,UNKNOWN,UNKNOWN
+Lis Mancini,lismancini,UNKNOWN,UNKNOWN
 Eva B. Mejnertz,eva_mejnertz,UNKNOWN,UNKNOWN
 Flemming Erichsen,ErichsenFer,UNKNOWN,UNKNOWN
-Gyda Heding,GydaHeding,UNKNOWN,UNKNOWN
 Thomas.,hav_t,Venstre,UNKNOWN
 Iben Sønderup,SonderupIben,UNKNOWN,UNKNOWN
-Carsten Kristensen,CarstenKristen1,UNKNOWN,UNKNOWN
+Carsten Kristensen,CarstenKristen1,Venstre,nordjylland
 Charlotte Drue,DrueCharlotte,UNKNOWN,UNKNOWN
 Ib Kristensen,BorgmesterIb,UNKNOWN,UNKNOWN
 Liselotte Lynge Jensen,LiselotteLyngeJ,UNKNOWN,UNKNOWN
 Randi Mondorf,RandiMondorf,Venstre,UNKNOWN
-Dan Ingemann Jensen,IngemannDj,UNKNOWN,UNKNOWN
 Jens Meilvang,JmMeilvang,UNKNOWN,UNKNOWN
+Dan Ingemann Jensen,IngemannDj,UNKNOWN,UNKNOWN
 Eea Vestergaard,Eeahaldan,UNKNOWN,UNKNOWN
-Else Kayser,else_kayser,Enhedslisten,midtjylland
 Andreas Keil,AlkeilAndreas,UNKNOWN,UNKNOWN
-Lene Linnemann,L_Linnemann,SF - Socialistisk Folkeparti     ,nordjylland
+Else Kayser,else_kayser,Enhedslisten,midtjylland
+Lene Linnemann,L_Linnemann,UNKNOWN,UNKNOWN
 NiclasTuran Kandemir,TuranKandemirDK,UNKNOWN,UNKNOWN
 Ole Vind,OleVind,UNKNOWN,UNKNOWN
 Lene Kjelgaard,lenekjelgaard,UNKNOWN,UNKNOWN
@@ -528,8 +528,8 @@ Thies Mathiasen,MailThies,Dansk Folkeparti,UNKNOWN
 Simon Højer,SimonOgPolitik,UNKNOWN,UNKNOWN
 Steffen Jensen,Steffenhalsnaes,UNKNOWN,UNKNOWN
 Mette Valbjørn,MetteVALG,Socialdemokratiet,midtjylland
-Per Bisgaard,perbisgaard,Venstre,nordjylland
-Marianne Frederik,mariannefrede20,Enhedslisten - De Rød-Grønne,UNKNOWN
+Per Bisgaard,perbisgaard,UNKNOWN,UNKNOWN
+Marianne Frederik,mariannefrede20,Enhedslisten,UNKNOWN
 Anders Buhl-Christen,AndersBuhl,UNKNOWN,UNKNOWN
 Anny winther,AnnyWinther,UNKNOWN,UNKNOWN
 Christel Gall,CgaChristel,UNKNOWN,UNKNOWN
@@ -541,26 +541,26 @@ Dina Oxfeldt,OxfeldtDina,UNKNOWN,UNKNOWN
 malene busk,malenebusks,UNKNOWN,UNKNOWN
 Uwe Jessen,UweJessen,UNKNOWN,UNKNOWN
 Sarah Nørris,sarah_noerris,Enhedslisten,UNKNOWN
-Annie Hagel,AnnieHagel,Enhedslisten - De Rød-Grønne,UNKNOWN
+Annie Hagel,AnnieHagel,Enhedslisten,UNKNOWN
 Annemarie Knigge,AnnekAnnemarie,Socialdemokratiet,sjælland
 Michael Eskamp Witek,eskampwitek,UNKNOWN,UNKNOWN
-PGraversgaard,PGraversgaard,UNKNOWN,UNKNOWN
 Charlotte Broman Møl,MlCharlotte,Socialistisk Folkeparti,UNKNOWN
+PGraversgaard,PGraversgaard,UNKNOWN,UNKNOWN
 Anne Møller Ronex,AnneMllerRonex,Radikale Venstre,sjælland
 Lauge Larsen (A),laugelarsenS,UNKNOWN,UNKNOWN
 Åse Kubel Høeg,aasekubelhoeeg,UNKNOWN,UNKNOWN
-Hans Skou,HansSkou,UNKNOWN,UNKNOWN
+Hans Skou,HansSkou,Venstre,midtjylland
 John T. Olsen,JtoOlsen,UNKNOWN,UNKNOWN
 Erik Nørreby,ErikNrreby,UNKNOWN,UNKNOWN
 Azra Hasanbegovic,hasanbegovic_6,UNKNOWN,UNKNOWN
-Jørgen Hein,aabcollege,UNKNOWN,UNKNOWN
+Jørgen Hein,aabcollege,Det Radikale Venstre,nordjylland
 Jørgen Rørbæk,Roerbak,UNKNOWN,UNKNOWN
 Susanne Lundvald,LundvaldSusanne,Socialdemokratiet,sjælland
-Erik Harbo Larsen,ErhlErik,Venstre,nordjylland
+Erik Harbo Larsen,ErhlErik,UNKNOWN,UNKNOWN
 Susanne Dyreborg,SusDyreborg,UNKNOWN,UNKNOWN
 Jan Hendeliowitz,JanHendeliowitz,Socialdemokratiet,sjælland
 Tobias Bøgeskov,Tobiasboegeskov,UNKNOWN,UNKNOWN
-Henrik Buchhave,BuchhaveHenrik,Venstre,nordjylland
+Henrik Buchhave,BuchhaveHenrik,UNKNOWN,UNKNOWN
 Flemming Andersen,FlemmingVenstre,UNKNOWN,UNKNOWN
 Pernille Høxbro,pernillehoxbro,UNKNOWN,UNKNOWN
 Poul Fremmelev,PoufrP,Socialdemokratiet,UNKNOWN
@@ -578,13 +578,13 @@ Søren Elbæk,SorenElbaek,UNKNOWN,UNKNOWN
 Annette Randløv,randlov62,Radikale Venstre,UNKNOWN
 Linda Frederiksen,Lindaf_dk,UNKNOWN,UNKNOWN
 claus leick,clausleick,UNKNOWN,UNKNOWN
-Mogens Nørgård,MogensNorg,Socialdemokratiet,nordjylland
+Mogens Nørgård,MogensNorg,UNKNOWN,UNKNOWN
 martin schepelern,mschepelern,UNKNOWN,UNKNOWN
 Per Skovmose,PskPer,UNKNOWN,UNKNOWN
-Anna Kirsten Olesen,OlesenAnna,UNKNOWN,UNKNOWN
+Anna Kirsten Olesen,OlesenAnna,Socialdemokratiet,nordjylland
 Petter Astrup,PetterAstrup,UNKNOWN,UNKNOWN
 Kim Drejer Nielsen,KimDrejer,UNKNOWN,UNKNOWN
-Annie Hagel,hagel6,Enhedslisten - De Rød-Grønne,UNKNOWN
+Annie Hagel,hagel6,Enhedslisten,UNKNOWN
 Søren H Lambertsen,shl1030,UNKNOWN,UNKNOWN
 Jakob Ville,JakobVille,UNKNOWN,UNKNOWN
 Maria Temponeras,MariaTemponeras,UNKNOWN,UNKNOWN
@@ -595,25 +595,25 @@ Anja Lund,AnjaLund2,Venstre,UNKNOWN
 David M. Zepernick,FondenSAA,UNKNOWN,UNKNOWN
 Sanne Skougaard An..,SanneSkougaard,UNKNOWN,UNKNOWN
 Evan Lynnerup,evan_lynnerup,Venstre,sjælland
+Ole Alsted,AlstedOle,UNKNOWN,UNKNOWN
 Lene Madsen Milner,LeneMilner,Venstre,sjælland
 Tage Petersen,TagePetersen,Venstre,UNKNOWN
 Nini Oken,NiniOken,UNKNOWN,UNKNOWN
-Ole Alsted,AlstedOle,UNKNOWN,UNKNOWN
-Mette Bjerre,mette_bjerre1,UNKNOWN,UNKNOWN
+Mette Bjerre,mette_bjerre1,Socialistisk Folkeparti,midtjylland
 melanie simick,SimickMorten,UNKNOWN,UNKNOWN
 Poul-Erik Svendsen,svendsen_poul,Socialdemokratiet,UNKNOWN
-Medzait Ljatifi,medzait1,Socialdemokratiet,nordjylland
+Medzait Ljatifi,medzait1,UNKNOWN,UNKNOWN
 Niels Hörup,Niels_Horup,UNKNOWN,UNKNOWN
 Ulla Chambless,UllaGC,UNKNOWN,UNKNOWN
 Poul Erik Jensen,PoulErikJensenA,UNKNOWN,UNKNOWN
 Frands Fischer,FrandsFischer,UNKNOWN,UNKNOWN
-Tage Leegaard,TageLeegaard,Det Konservative Folkeparti,nordjylland
+Tage Leegaard,TageLeegaard,Det Konservative Folkeparti,UNKNOWN
 Vicky Bender Lorenzen,VickyLorenzen,UNKNOWN,UNKNOWN
 Peder Hummelmose,PederHummelmose,UNKNOWN,UNKNOWN
-Susan Hedlund,hedlund_susan,UNKNOWN,UNKNOWN
+Susan Hedlund,hedlund_susan,Socialdemokratiet,hovedstadan
+Dorte West,DorteWest,Venstre,midtjylland
 Mustapha El-Ahmad,MustaphaElAhmad,UNKNOWN,UNKNOWN
 Arne Kristiansen,ArneBoelt,UNKNOWN,UNKNOWN
-Dorte West,DorteWest,Venstre,midtjylland
 Finn Sander Jensen,Finnsanderjense,UNKNOWN,UNKNOWN
 Mogens Nyholm,mogens_nyholm,UNKNOWN,UNKNOWN
 Karsten Fogde,FogdeKarsten,Socialistisk Folkeparti,UNKNOWN
@@ -631,9 +631,9 @@ ChristofferReinhardt,Reinhardt09,UNKNOWN,UNKNOWN
 MortenWeiss-Pedersen,mwp14,UNKNOWN,UNKNOWN
 Jørn Lehmann Peterse,rn_lehmann,UNKNOWN,UNKNOWN
 Henning J. Nyhuus,henningnyhuus,UNKNOWN,UNKNOWN
-Peter Therkildsen,TherkildsenP,Venstre,nordjylland
+Peter Therkildsen,TherkildsenP,UNKNOWN,UNKNOWN
 Kasper Ejlertsen,KasperEjlertsen,UNKNOWN,UNKNOWN
-Jette Ramskov,jetramskov,Socialdemokratiet,nordjylland
+Jette Ramskov,jetramskov,UNKNOWN,UNKNOWN
 Anne Heeager,AnneHeeager,UNKNOWN,UNKNOWN
 Karsten SkawboJensen,skawbojensen,UNKNOWN,UNKNOWN
 Jan Hemberg Herskov,HerskovJan,UNKNOWN,UNKNOWN
@@ -646,7 +646,7 @@ Felex Pedersen,PedersenFelex,Socialdemokratiet,sjælland
 AMPJ,PalmJohansen,UNKNOWN,UNKNOWN
 Christina Kjærsgaard,ChristinaKjrsg2,UNKNOWN,UNKNOWN
 Molle lykke nielsen,LykkeMolle,UNKNOWN,UNKNOWN
-Vibeke Gamst,vibeke_gamst,Det Konservative Folkeparti,nordjylland
+Vibeke Gamst,vibeke_gamst,UNKNOWN,UNKNOWN
 Pia Moldt,piamoldt,UNKNOWN,UNKNOWN
 Lars Folmann,larsfolm,Dansk Folkeparti,sjælland
 schlootie,schlootie,UNKNOWN,UNKNOWN
